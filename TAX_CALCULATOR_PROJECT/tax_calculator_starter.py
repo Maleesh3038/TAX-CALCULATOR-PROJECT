@@ -219,3 +219,23 @@ def main():
 if __name__ == "__main__":
     main()
 
+  # ========================================
+    # BONUS: Calculate summary statistics
+    # ========================================
+    print("\n" + "=" * 60)
+    print("SUMMARY STATISTICS")
+    print("=" * 60)
+
+    # YOUR CODE HERE (BONUS)
+    # Calculate and print:
+    # - Total tax revenue: sum(taxes)
+    # - Average effective tax rate
+    # - Highest and lowest tax amounts: max(taxes), min(taxes)
+    # - Average monthly take-home
+
+
+# Run the program
+if __name__ == "__main__":
+    main()
+
+
